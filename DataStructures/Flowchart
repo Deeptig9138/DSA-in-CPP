@@ -1,0 +1,6 @@
+```mermaid
+graph TD;
+    Start --> Process1[Process 1];
+    Process1 --> Decision{Decision Point};
+    Decision -- Yes --> Process2[Process 2];
+    Decision -- No --> End[End];
