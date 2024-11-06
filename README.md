@@ -25,6 +25,6 @@ Welcome to my **Data Structures and Algorithms** repository, where I tackle esse
 
 ## 🏆 Let's Connect
 Feel free to contribute, ask questions, or suggest new problems! Happy coding!
-Github : https://github.com/Deeptig9138
-Linkedin : www.linkedin.com/in/deepti-gupta-775736289
+- Github : https://github.com/Deeptig9138
+- Linkedin : www.linkedin.com/in/deepti-gupta-775736289
 
