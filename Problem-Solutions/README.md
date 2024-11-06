@@ -1,6 +1,6 @@
 # Problem Solutions
 
-This folder contains solutions to various Data Structures and Algorithms problems from platforms like LeetCode, Codeforces, and HackerRank. Each solution includes:
+This folder contains solutions to various Data Structures and Algorithms problems from platforms like LeetCode, Codeforces, GeeksForGeeks and HackerRank. Each solution includes:
 
 - Problem Statement
 - Approach and Explanation
