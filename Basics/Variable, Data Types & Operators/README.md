@@ -14,17 +14,17 @@ In C++, you must declare a variable before using it. The syntax for declaring a 
 ```
 
 ### Example:
-int age;
-double salary;
-char grade;
+1. int age;
+2. double salary;
+3. char grade;
 
 ### Initializing Variables
 Variables can also be initialized (assigned a value) at the time of declaration.
 
 ### Example:
-int age = 25;
-double salary = 45000.50;
-char grade = 'A';
+1. int age = 25;
+2. double salary = 45000.50;
+3. char grade = 'A';
 
 ## 2. Data Types in C++
 
