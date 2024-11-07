@@ -46,7 +46,7 @@ These are used to perform logical operations, typically in conditional statement
 ```
 Operator	Operation	  Example
 &&	        Logical AND	  a && b
-||              Logical OR       a||b
+||              Logical OR        a||b
 !	        Logical NOT	  !a
 ```
 
@@ -63,7 +63,7 @@ These are used to assign values to variables.
 Operator	Operation	                Example
 =	        Simple Assignment	        a = b
 +=	        Addition Assignment	        a += b
--=	        Subtraction Assignment	    a -= b
+-=	        Subtraction Assignment	        a -= b
 *=	        Multiplication Assignment	a *= b
 /=	        Division Assignment     	a /= b
 %=	        Modulus Assignment	        a %= b
