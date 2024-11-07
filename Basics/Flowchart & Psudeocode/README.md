@@ -37,7 +37,6 @@ Pseudocode is a high-level description of an algorithm written in a format that 
 - **No strict syntax**: Focuses on clarity over formal language rules.
 
 ### Example Pseudocode:
-```text
 BEGIN
   READ number
   IF (number % 2 == 0) THEN
@@ -58,7 +57,6 @@ int main() {
     int number;
     cout << "Enter a number: ";
     cin >> number;
-
     if (number % 2 == 0) {
         cout << "Even" << endl;
     } else {
