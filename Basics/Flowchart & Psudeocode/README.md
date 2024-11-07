@@ -15,7 +15,7 @@ Flowcharts are visual diagrams that represent the flow of a program or process. 
 
 ### Example:
 A flowchart for checking if a number is even or odd:
--   (Start) 
+- (Start) 
 -    |
 -  [Input Number]
 -    |
@@ -37,33 +37,33 @@ Pseudocode is a high-level description of an algorithm written in a format that 
 - **No strict syntax**: Focuses on clarity over formal language rules.
 
 ### Example Pseudocode:
-BEGIN
-  READ number
-  IF (number % 2 == 0) THEN
-    PRINT "Even"
-  ELSE
-    PRINT "Odd"
-  ENDIF
-END
+-BEGIN
+- READ number
+- IF (number % 2 == 0) THEN
+-   PRINT "Even"
+- ELSE
+-   PRINT "Odd"
+- ENDIF
+-END
 
 ## Translating Flowcharts and Pseudocode to C++
 Converting a flowchart or pseudocode into C++ involves understanding the logical steps and using appropriate C++ constructs to implement them.
 
 ### Example:
-#include <iostream>
-using namespace std;
+-#include <iostream>
+-using namespace std;
 
-int main() {
-    int number;
-    cout << "Enter a number: ";
-    cin >> number;
-    if (number % 2 == 0) {
-        cout << "Even" << endl;
-    } else {
-        cout << "Odd" << endl;
-    }
-    return 0;
-}
+-int main() {
+-   int number;
+-   cout << "Enter a number: ";
+-   cin >> number;
+-   if (number % 2 == 0) {
+-    cout << "Even" << endl;
+-   } else {
+-    cout << "Odd" << endl;
+-   }
+-   return 0;
+-}
 
 ## Benefits of Using Flowcharts and Pseudocode:
 - Improves problem understanding: Clarifies the logic before coding.
