@@ -1,5 +1,5 @@
 # C++ Variables
-This README provides an overview of **variables** in C++. These fundamental concepts are crucial to understanding how C++ works and form the foundation for writing more complex programs.
+This README provides an overview of **variables** in C++. This fundamental concepts is crucial to understanding how C++ works and form the foundation for writing more complex programs.
 
 ### What is a Variable?
 A **variable** is a storage location in memory that holds data, which can be changed during program execution. It is given a name (identifier) to reference the data stored in it.
