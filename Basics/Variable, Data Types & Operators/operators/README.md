@@ -78,7 +78,7 @@ x += 3;  // x = 8
 x *= 2;  // x = 16
 ```
 
-## 5. Increment and Decrement Operators
+## 5. Unary Operators
 These operators are used to increase or decrease the value of a variable by 1.
 ```
 Operator	Operation	 Example
