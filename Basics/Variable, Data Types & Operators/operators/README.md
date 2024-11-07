@@ -1,5 +1,5 @@
 # C++ Operators
-This README provides an overview of **operators** in C++. These fundamental concepts are crucial to understanding how C++ works and form the foundation for writing more complex programs.
+This README provides an overview of **operators** in C++. This fundamental concepts is crucial to understanding how C++ works and form the foundation for writing more complex programs.
 
 ### What is an Operator?
 An operator is a symbol that performs an operation on one or more operands (values). C++ supports various types of operators:
