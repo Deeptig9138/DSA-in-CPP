@@ -65,9 +65,11 @@ An operator is a symbol that performs an operation on one or more operands (valu
 
 1. Arithmetic Operators
 These operators are used for basic mathematical operations.
+```
 Operator	Operation	         Example
 +	        Addition	          a + b
 -	        Subtraction	        a - b
 *	        Multiplication	    a * b
 /	        Division	          a / b
 %	        Modulus (Remainder)	a % b
+```
