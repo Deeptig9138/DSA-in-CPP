@@ -46,7 +46,7 @@ These are used to perform logical operations, typically in conditional statement
 ```
 Operator	Operation	  Example
 &&	        Logical AND	  a && b
-||               Logical OR    a||b
+||              Logical OR       a||b
 !	        Logical NOT	  !a
 ```
 
