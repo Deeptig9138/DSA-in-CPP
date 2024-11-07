@@ -1,8 +1,6 @@
 # C++ Data Types 
 This README provides an overview of **data types** in C++. These fundamental concepts are crucial to understanding how C++ works and form the foundation for writing more complex programs.
 
-## 2. Data Types in C++
-
 ### Basic Data Types
 C++ supports several built-in data types, which can be categorized into the following:
 
