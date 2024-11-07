@@ -47,3 +47,27 @@ C++ supports several built-in data types, which can be categorized into the foll
 
 - Boolean Type: Used for logical values.
   - 1. bool (can hold true or false) (typically 1 byte)
+
+### Modifiers for Data Types
+Modifiers can be used with integer types to alter the size and range:
+
+- signed and unsigned: Control whether a variable can hold only positive values (unsigned) or both positive and negative values (signed).
+- long and short: Control the size of the variable.
+
+### Examples
+1. unsigned int positiveNumber;   // Can hold only positive values
+2. long long largeNumber;         // Can store a larger number
+
+## 3. Operators in C++
+
+### What is an Operator?
+An operator is a symbol that performs an operation on one or more operands (values). C++ supports various types of operators:
+
+1. Arithmetic Operators
+These operators are used for basic mathematical operations.
+Operator	Operation	         Example
++	        Addition	          a + b
+-	        Subtraction	        a - b
+*	        Multiplication	    a * b
+/	        Division	          a / b
+%	        Modulus (Remainder)	a % b
