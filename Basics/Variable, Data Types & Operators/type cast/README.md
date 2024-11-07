@@ -42,3 +42,47 @@ int main() {
 }
 ```
 In this case, the double value 9.87 is explicitly cast to an int, and the result is 9 (the fractional part is discarded).
+
+### Different Types of C++ Casts
+C++ provides four types of casting operators that give the programmer more control over type conversions.
+
+## 1. static_cast
+Used for conversions between types that are related by inheritance or simple conversions between built-in types.
+
+Example:
+```cpp
+double pi = 3.14;
+int intPi = static_cast<int>(pi);  // Converts double to int
+```
+
+## 2. dynamic_cast
+Used for safe downcasting in class hierarchies. It works only with pointers or references to classes in a polymorphic class hierarchy (i.e., a class that has at least one virtual function).
+
+Example:
+```cpp
+class Base { virtual void foo() {} };
+class Derived : public Base {};
+
+Base *b = new Derived();
+Derived *d = dynamic_cast<Derived*>(b);  // Safe downcast
+```
+
+## 3. const_cast
+Used to add or remove the const qualifier from a variable. This is useful when you want to modify a constant value (though this should generally be avoided unless necessary).
+
+Example:
+```cpp
+const int x = 10;
+int* ptr = const_cast<int*>(&x);  // Remove const from x
+*ptr = 20;  // Modifying the value is undefined behavior
+```
+
+## 4. reinterpret_cast
+Used for low-level casting between pointer types, including converting one type of pointer to another. This type of cast should be used with caution, as it can lead to undefined behavior if misused.
+
+Example:
+```cpp
+int a = 10;
+void* ptr = &a;
+char* charPtr = reinterpret_cast<char*>(ptr);  // Convert pointer to char pointer
+```
