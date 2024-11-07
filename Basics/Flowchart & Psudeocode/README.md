@@ -42,25 +42,6 @@ Pseudocode is a high-level description of an algorithm written in a format that 
 - ENDIF
 - END
 
-## Translating Flowcharts and Pseudocode to C++
-Converting a flowchart or pseudocode into C++ involves understanding the logical steps and using appropriate C++ constructs to implement them.
-
-### Example:
-- #include <iostream>
-- using namespace std;
-
-- int main() {
--   int number;
--   cout << "Enter a number: ";
--   cin >> number;
--   if (number % 2 == 0) {
--    cout << "Even" << endl;
--   } else {
--    cout << "Odd" << endl;
--   }
--   return 0;
-- }
-
 ## Benefits of Using Flowcharts and Pseudocode:
 - Improves problem understanding: Clarifies the logic before coding.
 - Reduces errors: Helps identify potential issues early.
