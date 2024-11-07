@@ -15,17 +15,17 @@ Flowcharts are visual diagrams that represent the flow of a program or process. 
 
 ### Example:
 A flowchart for checking if a number is even or odd:
-(Start) 
-   |
-  [Input Number]
-   |
-  {Is number % 2 == 0?} 
-  /      \ 
-Yes       No
- |         |
-[Print "Even"] [Print "Odd"]
- |         |
- (End)
+-   (Start) 
+-    |
+-  [Input Number]
+-    |
+-   {Is number % 2 == 0?} 
+-   /            \ 
+- Yes             No
+-  |              |
+- [Print "Even"] [Print "Odd"]
+-  |                |
+-    (End)
 
 
 ## What Is Pseudocode?
