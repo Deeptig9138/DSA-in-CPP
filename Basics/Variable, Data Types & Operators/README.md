@@ -68,8 +68,8 @@ These operators are used for basic mathematical operations.
 ```
 Operator	Operation	         Example
 +	        Addition	          a + b
--	        Subtraction	        a - b
-*	        Multiplication	    a * b
-/	        Division	          a / b
-%	        Modulus (Remainder)	a % b
+-	        Subtraction	          a - b
+*	        Multiplication	      a * b
+/	        Division	            a / b
+%	        Modulus (Remainder)	  a % b
 ```
