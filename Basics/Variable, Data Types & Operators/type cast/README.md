@@ -1,11 +1,8 @@
 # C++ Type Casting
 This README provides an overview of **type casting** in C++. This concepts is important to understand how data of one type can be casted to another type, allowing for better control over operations in your program.
 
-## 1. Type Casting in C++
-
 ### What is Type Casting?
 **Type casting** refers to explicitly converting a variable from one data type to another. In C++, type casting can be done in two ways:
-
 1. **Implicit Type Casting (Automatic Casting)**: This happens automatically by the compiler when there is no loss of information in the conversion.
 2. **Explicit Type Casting (Manual Casting)**: This is when the programmer manually specifies the type conversion.
 
@@ -23,4 +20,25 @@ int main() {
     cout << "Double value: " << result << endl;  // Output: 100.0
     return 0;
 }
+```
+In this example, num (an int) is automatically converted to double and stored in the result.
 
+### Explicit Type Casting (Manual Type Conversion)
+Explicit type casting occurs when the programmer uses a casting operator to forcefully convert a variable from one type to another. This is usually done when converting a larger data type to a smaller one or converting between non-compatible types.
+
+The syntax for explicit casting is:
+(type) variable
+
+For example:
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    double num = 9.87;
+    int result = (int) num;  // Explicit type casting from double to int
+    cout << "Integer value: " << result << endl;  // Output: 9
+    return 0;
+}
+```
+In this case, the double value 9.87 is explicitly cast to an int, and the result is 9 (the fractional part is discarded).
