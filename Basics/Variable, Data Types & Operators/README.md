@@ -32,18 +32,18 @@ char grade = 'A';
 C++ supports several built-in data types, which can be categorized into the following:
 
 - Integer Types: Used for whole numbers.
-  - ###int (typically 4 bytes)
-  - ###short (typically 2 bytes)
-  - ###long (typically 4 or 8 bytes)
-  - ###long long (typically 8 bytes)
+  - 1. int (typically 4 bytes)
+  - 2. short (typically 2 bytes)
+  - 3. long (typically 4 or 8 bytes)
+  - 4. long long (typically 8 bytes)
 
 - Floating Point Types: Used for real numbers (decimals).
-  - ###float (typically 4 bytes)
-  - ###double (typically 8 bytes)
-  - ###long double (typically 8 bytes or more)
+  - 1. float (typically 4 bytes)
+  - 2. double (typically 8 bytes)
+  - 3. long double (typically 8 bytes or more)
 
 - Character Types: Used for storing single characters.
-  - ###char (typically 1 byte)
+  - 1. char (typically 1 byte)
 
 - Boolean Type: Used for logical values.
-  - ###bool (can hold true or false) (typically 1 byte)
+  - 1. bool (can hold true or false) (typically 1 byte)
