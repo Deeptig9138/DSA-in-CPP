@@ -1,8 +1,6 @@
 # C++ Operators
 This README provides an overview of **operators** in C++. These fundamental concepts are crucial to understanding how C++ works and form the foundation for writing more complex programs.
 
-## 3. Operators in C++
-
 ### What is an Operator?
 An operator is a symbol that performs an operation on one or more operands (values). C++ supports various types of operators:
 
@@ -26,12 +24,12 @@ Operator	Operation	         Example
 These operators are used to compare two values.
 ```
 Operator	Operation	                Example
-==	      Equal to	                a == b
-!=	      Not equal to	            a != b
+==	        Equal to	                a == b
+!=	        Not equal to	            a != b
 >	        Greater than	            a > b
 <	        Less than	                a < b
->=	      Greater than or equal to	a >= b
-<=	      Less than or equal to	    a <= b
+>=	        Greater than or equal to	a >= b
+<=	        Less than or equal to	    a <= b
 ```
 
 ### Example:
@@ -47,9 +45,9 @@ if (a == b) {
 These are used to perform logical operations, typically in conditional statements.
 ```
 Operator	Operation	  Example
-&&	      Logical AND	a && b
-||        Logical OR  a||b
-!	        Logical NOT	!a
+&&	        Logical AND	  a && b
+||          Logical OR    a||b
+!	        Logical NOT	  !a
 ```
 
 ### Example:
@@ -64,11 +62,11 @@ These are used to assign values to variables.
 ```
 Operator	Operation	                Example
 =	        Simple Assignment	        a = b
-+=	      Addition Assignment	      a += b
--=	      Subtraction Assignment	  a -= b
-*=	      Multiplication Assignment	a *= b
-/=	      Division Assignment     	a /= b
-%=	      Modulus Assignment	      a %= b
++=	        Addition Assignment	        a += b
+-=	        Subtraction Assignment	    a -= b
+*=	        Multiplication Assignment	a *= b
+/=	        Division Assignment     	a /= b
+%=	        Modulus Assignment	        a %= b
 ```
 
 ### Example:
@@ -80,8 +78,8 @@ Operator	Operation	                Example
 These operators are used to increase or decrease the value of a variable by 1.
 ```
 Operator	Operation	 Example
-++	      Increment	 a++ or ++a
---	      Decrement	 a-- or --a
+++	        Increment	 a++ or ++a
+--	        Decrement	 a-- or --a
 ```
 
 ### Example:
