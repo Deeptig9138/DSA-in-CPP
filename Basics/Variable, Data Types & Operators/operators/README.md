@@ -4,7 +4,7 @@ This README provides an overview of **operators** in C++. These fundamental conc
 ### What is an Operator?
 An operator is a symbol that performs an operation on one or more operands (values). C++ supports various types of operators:
 
-##1. Arithmetic Operators
+## 1. Arithmetic Operators
 These operators are used for basic mathematical operations.
 ```
 Operator	Operation	         Example
@@ -20,7 +20,7 @@ Operator	Operation	         Example
 - int sum = a + b;       // sum = 13
 - int remainder = a % b; // remainder = 1
 
-##2. Relational (Comparison) Operators
+## 2. Relational (Comparison) Operators
 These operators are used to compare two values.
 ```
 Operator	Operation	                Example
@@ -41,7 +41,7 @@ if (a == b) {
 }
 ```
 
-##3. Logical Operators
+## 3. Logical Operators
 These are used to perform logical operations, typically in conditional statements.
 ```
 Operator	Operation	  Example
@@ -57,7 +57,7 @@ if (a > 5 && b < 10) {
 }
 ```
 
-##4. Assignment Operators
+## 4. Assignment Operators
 These are used to assign values to variables.
 ```
 Operator	Operation	                Example
@@ -74,7 +74,7 @@ Operator	Operation	                Example
 - x += 3;  // x = 8
 - x *= 2;  // x = 16
 
-##5. Increment and Decrement Operators
+## 5. Increment and Decrement Operators
 These operators are used to increase or decrease the value of a variable by 1.
 ```
 Operator	Operation	 Example
