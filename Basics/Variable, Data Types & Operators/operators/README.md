@@ -16,9 +16,11 @@ Operator	Operation	         Example
 ```
 
 ### Example:
-- int a = 10, b = 3;
-- int sum = a + b;       // sum = 13
-- int remainder = a % b; // remainder = 1
+```cpp
+int a = 10, b = 3;
+int sum = a + b;       // sum = 13
+int remainder = a % b; // remainder = 1
+```
 
 ## 2. Relational (Comparison) Operators
 These operators are used to compare two values.
@@ -70,9 +72,11 @@ Operator	Operation	                Example
 ```
 
 ### Example:
-- int x = 5;
-- x += 3;  // x = 8
-- x *= 2;  // x = 16
+```cpp
+int x = 5;
+x += 3;  // x = 8
+x *= 2;  // x = 16
+```
 
 ## 5. Increment and Decrement Operators
 These operators are used to increase or decrease the value of a variable by 1.
