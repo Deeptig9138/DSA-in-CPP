@@ -3,7 +3,7 @@ This README provides an overview of **type casting** in C++. This concepts is im
 
 ### What is Type Casting?
 **Type casting** refers to explicitly converting a variable from one data type to another. In C++, type casting can be done in two ways:
-1. **Implicit Type Casting (Automatic Casting)**: This happens automatically by the compiler when there is no loss of information in the conversion. Also known as type conversion.
+1. **Implicit Type Casting (Automatic Casting)**: This happens automatically by the compiler when there is no loss of information in the conversion. Also known as **Type Conversion**.
 2. **Explicit Type Casting (Manual Casting)**: This is when the programmer manually specifies the type conversion.
 
 ### Implicit Type Casting (Automatic Type Conversion)
