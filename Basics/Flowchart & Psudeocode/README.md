@@ -7,11 +7,6 @@ This repository is a comprehensive guide to understanding and using flowcharts a
 Flowcharts are visual diagrams that represent the flow of a program or process. They use different symbols to denote various operations, making it easier to conceptualize the structure and logic of a program before coding.
 
 ### Common Flowchart Symbols: ![Flowchart](https://github.com/Deeptig9138/DSA-in-CPP/blob/main/Basics/Flowchart%20%26%20Psudeocode/flowchart.jpg)
-- **Oval**: Start and end points of the flowchart.
-- **Rectangle**: A process or instruction to be executed.
-- **Diamond**: A decision point with yes/no or true/false outcomes.
-- **Parallelogram**: Input/output operations.
-- **Arrow**: Indicates the flow of control between different steps.
 
 ### Example:
 A flowchart for checking if a number is even or odd:
