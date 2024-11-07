@@ -25,11 +25,11 @@ These operators are used to compare two values.
 ```
 Operator	Operation	                Example
 ==	        Equal to	                a == b
-!=	        Not equal to	              a != b
->	        Greater than	              a > b
+!=	        Not equal to	                a != b
+>	        Greater than	                a > b
 <	        Less than	                a < b
 >=	        Greater than or equal to	a >= b
-<=	        Less than or equal to	      a <= b
+<=	        Less than or equal to	        a <= b
 ```
 
 ### Example:
@@ -46,7 +46,7 @@ These are used to perform logical operations, typically in conditional statement
 ```
 Operator	Operation	  Example
 &&	        Logical AND	  a && b
-||            Logical OR    a||b
+||               Logical OR    a||b
 !	        Logical NOT	  !a
 ```
 
