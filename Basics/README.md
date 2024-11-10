@@ -10,7 +10,7 @@ Welcome to the **Basics** folder! This section covers foundational C++ programmi
 - **Variables, Data Types & Operators**  
   Understand how to declare variables, utilize various data types, and apply operators for performing arithmetic and logical operations.
 
-- **Conditional Statements**  
+- **Conditional Statements & Loops**  
   Control the flow of your program using conditional statements like `if`, `else`, and `switch` to implement decision-making.
 
 - **Loops**  
