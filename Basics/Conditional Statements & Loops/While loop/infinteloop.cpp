@@ -1,3 +1,5 @@
+// Don't run this file but if you do so then force kill your terminal by pressing ctrl + c
+
 #include <iostream>
 using namespace std;
 
