@@ -13,8 +13,8 @@ Welcome to the **Basics** folder! This section covers foundational C++ programmi
 - **Conditional Statements & Loops**  
   Control the flow of your program using conditional statements like `if`, `else`, and `switch` to implement decision-making.
 
-- **Loops**  
-  Master different loops (`for`, `while`, `do-while`) to perform repetitive tasks efficiently, a key part of many algorithms.
+- **Patterns**  
+  Master loops and fundamental programming by designing patterns.
 
 - **Functions**  
   Dive into defining and using functions to create reusable code, structure your program, and enhance readability.
