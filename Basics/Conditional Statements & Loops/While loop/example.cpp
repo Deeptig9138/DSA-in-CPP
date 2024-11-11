@@ -10,7 +10,7 @@ int main(){
 
     while (count <= n)
     {
-        cout<<count <<endl;
+        cout<<count <<"\t";
         count++;
     }  
     return 0; 
