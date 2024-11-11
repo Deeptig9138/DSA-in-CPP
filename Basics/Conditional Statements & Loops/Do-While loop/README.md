@@ -10,3 +10,5 @@ do {
     // Code to execute
 } while (condition);
 ```
+
+## Even if the condition is false, the code will run atleast once because we are first doing the work and then checking the condition
