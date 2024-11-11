@@ -2,8 +2,13 @@
 using namespace std;
 
 int main(){
-    int count = 0;
-    while (count < 5)
+    int count = 1;
+
+    int n;
+    cout<<"Enter a number: ";
+    cin>>n;
+
+    while (count <= n)
     {
         cout<<count <<endl;
         count++;
