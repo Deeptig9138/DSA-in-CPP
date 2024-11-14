@@ -22,9 +22,9 @@ Same thing can be done with numbers and characters.
 ## Program Logic Explanation
 
 ### 1. Solid Square
-Uses nested loops:
-The outer loop controls the number of rows.
-The inner loop prints * for each column in a row.
+- We use two **nested loops**: an outer loop to handle the rows and an inner loop to handle the columns within each row.
+- The **outer loop** runs from 0 to n-1, where n is the size of the square (i.e., the number of rows and columns).
+- The **inner loop** runs from 0 to n-1 for each iteration of the outer loop, printing * for each column in the current row.
 
 ### 2. Hollow Square
 Prints * on the boundaries (first and last rows, first and last columns).
