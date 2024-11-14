@@ -13,7 +13,7 @@ Below are examples of different types of square patterns that can be printed:
        ****
        ****
 ```
-Same thing can be done with numbers and characters.
+Same thing can be done with numbers and characters. solid_square1 & solid_square2
 
 ### 2. **Number Square** : Let n = 3, n here is Number of Rows
 ```
@@ -21,6 +21,7 @@ Same thing can be done with numbers and characters.
        4 5 6
        7 8 9
 ```
+Same thing can be done with characters. number_square1
 
 ## Program Logic Explanation
 
