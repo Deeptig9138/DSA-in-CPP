@@ -31,7 +31,7 @@ This pattern can also be created using numbers or characters. Check number_trian
        2 1
        3 2 1
 ```
-This pattern can also be created using characters. Refer to number_reverse_triangle1.
+This pattern can also be created using characters. Refer to number_reversed_triangle1.
 
 ## Program Logic Explanation
 
@@ -85,4 +85,36 @@ It is a pattern which gives output of **Solid Right-Angled Triangle** in it's ch
 - **Inner loop (`j`)**:
   - Runs from `0` to `i-1`, printing the character `i` times.
 
+---
+
+## number_reverse_triangle1:
+It is a pattern which gives output of **Number Reversed Triangle** in it's character form where each row starts from a character corresponding to the row number and counts down to 'A'.
+```
+       A
+       B A
+       C B A
+```
+
+### Explanation of Code:
+```
+       for (int i = 1; i <= n; i++) {
+             for (int j = i; j > 0; j--) {
+                  char ch = 'A' + (j - 1);
+                  cout << ch << " ";
+             }
+             cout << endl;  
+       }
+```
+
+- **Input (`n`)**: The user enters the number of rows for the triangle.
+- **Outer loop (`i`)**:
+  - Runs from 1 to n, controlling the number of rows.
+- **Inner loop (`j`)**:
+  - Starts from i and runs down to 1, printing characters in descending order
+- **Character Assignment (`ch`)**:
+  - The character ch is calculated as 'A' + (j - 1), which determines the character based on the current column's position within the row. For each row:
+    - **Row 1**: The loop prints 'A' + (1 - 1) = 'A' → Output: A
+    - **Row 2**: The loop prints 'A' + (2 - 1) = 'B', 'A' + (1 - 1) = 'A' → Output: B A
+    - **Row 3**: The loop prints 'A' + (3 - 1) = 'C', 'A' + (2 - 1) = 'B', 'A' + (1 - 1) = 'A' → Output: C B A
+    
 ---
