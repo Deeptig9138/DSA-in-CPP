@@ -25,15 +25,6 @@ This repository features a variety of pattern examples, including but not limite
      7 8 9
      ```
 
-   - **Diamond**
-     ```
-       *
-      * *
-     * * *
-      * *
-       *
-     ```
-
 ### 2. **Star Patterns**
    - **Simple Triangle**
      ```
@@ -85,15 +76,7 @@ This repository features a variety of pattern examples, including but not limite
      C C C
      D D D D
      ```
-
-   - **Alphabet Pyramid**
-```
-       A
-      B B
-     C C C
-    D D D D
-```
-
+     
 ### 5. **Advanced Patterns**
    - **Checkerboard**
      ```
