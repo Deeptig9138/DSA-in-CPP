@@ -31,6 +31,10 @@ This pattern can also be created using characters. Refer to reverse_number_trian
 - The **inner loop** runs from `1` to the current value of the outer loop variable, printing `*` for each iteration. This creates a decreasing pattern for each row.
 
 ### 2. Reverse Number Triangle
-- The **outer loop** runs from `n` to `1`, representing each row.
-- The **inner loop** runs from `1` to the current row number (i), printing sequential numbers starting from 1 for each column.
-- This results in a reverse triangle where each row prints numbers starting from 1 up to the current row number, with each row having one less number than the previous row.
+- The **outer loop** runs from `1` to `n`, representing each row.
+- The **inner loop** runs from the current row number `i` down to `1`, printing numbers in descending order for each column.
+- This results in a reverse triangle where each row starts from the row number and counts down to `1`.
+- For example:
+  - In Row 1, it prints `1`.
+  - In Row 2, it prints `2 1`.
+  - In Row 3, it prints `3 2 1`.
