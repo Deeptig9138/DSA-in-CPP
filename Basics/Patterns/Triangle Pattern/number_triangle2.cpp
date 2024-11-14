@@ -9,7 +9,7 @@ int main(){
     for (int i = 1; i <= n; i++){
         char ch = 'A';
         for(int j = 0; j < i; j++){
-            cout<<ch;
+            cout<<ch <<" ";
             ch = ch + 1;
         }
         cout<<endl;
