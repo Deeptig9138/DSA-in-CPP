@@ -25,7 +25,7 @@ This pattern can also be created using numbers or characters. Check solid_triang
 Similar variations can be implemented with characters. Refer to number_triangle1.
 This pattern can also be created using numbers or characters. Check number_triangle1 and number_triangle2.
 
-### 3. **Number Reverse Triangle** : Let n = 3, n here is the Number of Rows
+### 3. **Number Reversed Triangle** : Let n = 3, n here is the Number of Rows
 ```
        1
        2 1
