@@ -45,3 +45,25 @@ It is a pattern which gives output of **Solid Right-Angled Triangle** in it's ch
        C C C
 ```
 
+### Explanation of Code:
+```
+       for (int i = 1; i <= n; i++){
+             char ch = 'A' + (i - 1);
+             for(int j = 0; j < i; j++){
+                  cout<<ch <<" ";
+             }
+             cout<<endl;
+       }
+```
+
+- **Input (n)**: The user enters the number of rows for the triangle.
+- **Outer loop (i)**:
+      - Runs from 1 to n, controlling the number of rows.
+      - **Character Assignment (ch)**:
+            - The character ch is set as 'A' + (i - 1), which calculates the character based on the row number. For example:
+            - Row 1: 'A' + (1 - 1) = 'A'
+            - Row 2: 'A' + (2 - 1) = 'B'
+            - Row 3: 'A' + (3 - 1) = 'C'
+- **Inner loop (j)**:
+      - Runs from 0 to i-1, printing the character i times.
+
