@@ -29,7 +29,25 @@ This repository features a variety of pattern examples, including but not limite
 
 ---
 
-### 2. **Star Patterns**
+### 2. **Triangle Patterns**
+   - **Solid Reverse Right-Angled Triangle**
+     ```
+     * * * *
+     * * *
+     * * 
+     * 
+     ```
+
+   - **Reverse Number Triangle**
+     ```
+     1
+     2 1
+     3 2 1 
+     ```
+     
+---
+
+### 3. **Reversed Triangle Patterns**
    - **Solid Right-Angled Triangle**
      ```
      *
@@ -47,7 +65,7 @@ This repository features a variety of pattern examples, including but not limite
      
 ---
 
-### 3. **Number Patterns**
+### 4. **Number Patterns**
    - **Right-angled Triangle with Numbers**
      ```
      1
@@ -66,7 +84,7 @@ This repository features a variety of pattern examples, including but not limite
 
 ---
 
-### 4. **Alphabet Patterns**
+### 5. **Alphabet Patterns**
    - **Increasing Alphabet Triangle**
      ```
      A
@@ -77,7 +95,7 @@ This repository features a variety of pattern examples, including but not limite
 
 ---
      
-### 5. **Advanced Patterns**
+### 6. **Advanced Patterns**
    - **Checkerboard**
      ```
      * * * * *
