@@ -8,13 +8,20 @@ Below are examples of different types of reverse triangle patterns that can be p
 
 ### 1. **Solid Reverse Right-Angled Triangle** : Let n = 4, n here is the Number of Rows
 ```
+       * * * *
+       * * *
+       * *
+       *
 ```
-This pattern can also be created using numbers or characters. Check `reverse_solid_triangle1` and `reverse_solid_triangle2`.
+This pattern can also be created using numbers or characters. Check reverse_solid_triangle1 and reverse_solid_triangle2.
 
 ### 2. **Reverse Number Triangle** : Let n = 3, n here is the Number of Rows
 ```
+       1
+       2 1
+       3 2 1
 ```
-This pattern can also be created using characters. Refer to `reverse_number_triangle1`.
+This pattern can also be created using characters. Refer to reverse_number_triangle1.
 
 ## Program Logic Explanation
 
