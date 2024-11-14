@@ -56,14 +56,15 @@ It is a pattern which gives output of **Solid Right-Angled Triangle** in it's ch
        }
 ```
 
-- **Input (n)**: The user enters the number of rows for the triangle.
-- **Outer loop (i)**:
-      - Runs from 1 to n, controlling the number of rows.
-      - **Character Assignment (ch)**:
-            a The character ch is set as 'A' + (i - 1), which calculates the character based on the row number. For example:
-            b Row 1: 'A' + (1 - 1) = 'A'
-            c Row 2: 'A' + (2 - 1) = 'B'
-            d Row 3: 'A' + (3 - 1) = 'C'
-- **Inner loop (j)**:
-      - Runs from 0 to i-1, printing the character i times.
+- **Input (`n`)**: The user enters the number of rows for the triangle.
+- **Outer loop (`i`)**:
+  - Runs from `1` to `n`, controlling the number of rows.
+- **Character Assignment (`ch`)**:
+  - The character `ch` is set as `'A' + (i - 1)`, which calculates the character based on the row number. For example:
+    - **Row 1**: `'A' + (1 - 1) = 'A'`
+    - **Row 2**: `'A' + (2 - 1) = 'B'`
+    - **Row 3**: `'A' + (3 - 1) = 'C'`
+- **Inner loop (`j`)**:
+  - Runs from `0` to `i-1`, printing the character `i` times.
 
+---
