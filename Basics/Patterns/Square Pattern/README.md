@@ -29,9 +29,5 @@ Same thing can be done with numbers and characters.
 - The **outer loop** runs from 0 to n-1, where n is the size of the square (i.e., the number of rows and columns).
 - The **inner loop** runs from 0 to n-1 for each iteration of the outer loop, printing * for each column in the current row.
 
-### 2. Hollow Square
-Prints * on the boundaries (first and last rows, first and last columns).
-The inner space is left blank using conditions in the inner loop.
-
 ### 3. Number Square
 Each row prints a constant number, starting from 1 up to N (where N is the number of rows/columns).
