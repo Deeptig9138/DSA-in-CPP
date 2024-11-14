@@ -26,7 +26,7 @@ Similar variations can be implemented with characters. Refer to number_triangle1
 ## Program Logic Explanation
 
 ### 1. Solid Right-Angled Triangle
-- We use **nested loops:** an outer loop to control the number of rows and an inner loop to control the number of stars printed in each row.
+- We use **nested loops**: an outer loop to control the number of rows and an inner loop to control the number of stars printed in each row.
 - The **outer loop** runs from 1 to n, where n is the total number of rows in the triangle.
 - The **inner loop** runs from 1 to the current value of the outer loop variable, printing * for each iteration. This creates an incrementing pattern for each row.
 
