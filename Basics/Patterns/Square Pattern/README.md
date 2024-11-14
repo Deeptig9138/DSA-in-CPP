@@ -17,9 +17,9 @@ Same thing can be done with numbers and characters.
 
 ### 2. **Solid Square With Changing Number** : Let n = 3, n here is Number of Rows
  ```
-       1 2 3
-       4 5 6
-       7 8 9
+      1 2 3
+      4 5 6
+      7 8 9
  ```
 
 ### 3. **Number Square**
