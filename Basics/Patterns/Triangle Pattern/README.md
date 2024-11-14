@@ -13,7 +13,7 @@ Below are examples of different types of triangle patterns that can be printed:
        * * *
        * * * *
 ```
-This pattern can also be created using numbers or characters. Check solid_triangle1 and solid_triangle2.
+This pattern can also be created using numbers or characters. Check solid_triangle1, solid_triangle3 and solid_triangle2.
 
 ### 2. **Number Triangle** : Let n = 3, n here is Number of Rows
 ```
