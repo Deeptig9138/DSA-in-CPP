@@ -9,7 +9,33 @@ Pattern programs are a popular way to practice programming logic and understand 
 ## Patterns Included
 This repository features a variety of pattern examples, including but not limited to:
 
-### 1. **Star Patterns**
+### 1. **Square Patterns**
+   - **Solid Square**
+     ```
+     * * * *
+     * * * *
+     * * * *
+     * * * *
+     ```
+
+   - **Pyramid**
+     ```
+        *
+       * *
+      * * *
+     * * * *
+     ```
+
+   - **Diamond**
+     ```
+       *
+      * *
+     * * *
+      * *
+       *
+     ```
+
+### 2. **Star Patterns**
    - **Simple Triangle**
      ```
      *
@@ -35,7 +61,7 @@ This repository features a variety of pattern examples, including but not limite
        *
      ```
 
-### 2. **Number Patterns**
+### 3. **Number Patterns**
    - **Right-angled Triangle with Numbers**
      ```
      1
@@ -52,7 +78,7 @@ This repository features a variety of pattern examples, including but not limite
      7 8 9 10
      ```
 
-### 3. **Alphabet Patterns**
+### 4. **Alphabet Patterns**
    - **Increasing Alphabet Triangle**
      ```
      A
@@ -62,14 +88,14 @@ This repository features a variety of pattern examples, including but not limite
      ```
 
    - **Alphabet Pyramid**
-     ```
+```
        A
       B B
      C C C
     D D D D
-    ```
+```
 
-### 4. **Advanced Patterns**
+### 5. **Advanced Patterns**
    - **Checkerboard**
      ```
      * * * * *
