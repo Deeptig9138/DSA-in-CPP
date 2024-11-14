@@ -30,6 +30,6 @@ Same thing can be done with characters. number_square1
 - The **outer loop** runs from 0 to n-1, where n is the size of the square (i.e., the number of rows and columns).
 - The **inner loop** runs from 0 to n-1 for each iteration of the outer loop, printing * for each column in the current row.
 
-### 3. Number Square
+### 2. Number Square
 - We use two **nested loops:** the outer loop to handle the number of rows and the inner loop to handle the columns within each row.
 - A separate variable, num, is used to track the current number to be printed. This variable starts at 1 and increments after each print.
