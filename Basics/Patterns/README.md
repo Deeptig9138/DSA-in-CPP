@@ -30,7 +30,7 @@ This repository features a variety of pattern examples, including but not limite
 ---
 
 ### 2. **Star Patterns**
-   - **Simple Triangle**
+   - **Solid Right-Angled Triangle**
      ```
      *
      * *
