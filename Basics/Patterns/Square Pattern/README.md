@@ -13,6 +13,7 @@ Below are examples of different types of square patterns that can be printed:
       ****
       ****
  ```
+Same thing can be done with numbers and characters.
 
 ### 2. **Hollow Square**
 
