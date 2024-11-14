@@ -15,7 +15,7 @@ Below are examples of different types of triangle patterns that can be printed:
 ```
 This pattern can also be created using numbers or characters. Check solid_triangle1 and solid_triangle2.
 **solid_triangle4** is a very interesting problem. If you are able to think and understand it is amazing. 
-## *A detailed explanation can be found below for solid_triangle4*
+### *A detailed explanation can be found below for solid_triangle4*
 
 ### 2. **Number Triangle** : Let n = 3, n here is Number of Rows
 ```
@@ -33,7 +33,7 @@ This pattern can also be created using numbers or characters. Check number_trian
        3 2 1
 ```
 This pattern can also be created using characters. Refer to number_reversed_triangle1. 
-## *A detailed explanation can be found below for number_reversed_triangle1*
+### *A detailed explanation can be found below for number_reversed_triangle1*
 
 ## Program Logic Explanation
 
