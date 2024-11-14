@@ -67,7 +67,7 @@ This repository features a variety of pattern examples, including but not limite
       B B
      C C C
     D D D D
-     ```
+    ```
 
 ### 4. **Advanced Patterns**
    - **Checkerboard**
