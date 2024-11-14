@@ -19,11 +19,11 @@ This repository features a variety of pattern examples, including but not limite
      ```
 
    - **Number Square** 
- ```
-      1 2 3
-      4 5 6
-      7 8 9
- ```
+     ```
+     1 2 3
+     4 5 6
+     7 8 9
+     ```
 
    - **Diamond**
      ```
