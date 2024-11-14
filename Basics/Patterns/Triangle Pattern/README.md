@@ -35,3 +35,13 @@ Similar variations can be implemented with characters. Refer to number_triangle1
 - The **outer loop** runs from 1 to n, representing each row.
 - The **inner loop** runs from 1 to the current row number (i), printing sequential numbers starting from 1 for each column.
 - This results in a triangle where each row prints numbers starting from 1 up to the current row number.
+
+---
+## solid_triangle4:
+It is a pattern which gives output of **Solid Right-Angled Triangle** in it's character form but it changes after a row
+```
+       A
+       B B
+       C C C
+```
+
