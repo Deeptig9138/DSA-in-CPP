@@ -30,4 +30,5 @@ Same thing can be done with numbers and characters.
 - The **inner loop** runs from 0 to n-1 for each iteration of the outer loop, printing * for each column in the current row.
 
 ### 3. Number Square
-Each row prints a constant number, starting from 1 up to N (where N is the number of rows/columns).
+- We use two **nested loops:** the outer loop to handle the number of rows and the inner loop to handle the columns within each row.
+- A separate variable, num, is used to track the current number to be printed. This variable starts at 1 and increments after each print.
