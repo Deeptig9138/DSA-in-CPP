@@ -7,13 +7,12 @@ This directory contains a simple C++ program to print a **Square Pattern**. Squa
 Below are examples of different types of square patterns that can be printed:
 
 ### 1. **Solid Square** : Let n = 4, n here is number of lines
-
-      ```
+ ```
       ****
       ****
       ****
       ****
-      ```
+ ```
 
 ### 2. **Hollow Square**
 
