@@ -33,6 +33,15 @@ This pattern can also be created using numbers or characters. Check number_trian
        3 2 1
 ```
 This pattern can also be created using characters. Refer to number_reversed_triangle1. 
+
+ ### 4. **Floyd’s Triangle** : Let n = 4, n here is Number of Rows
+ ```
+     1
+     2 3
+     4 5 6
+     7 8 9 10
+  ```
+     
 ### *A detailed explanation can be found below for number_reversed_triangle1*
 
 ## Program Logic Explanation
