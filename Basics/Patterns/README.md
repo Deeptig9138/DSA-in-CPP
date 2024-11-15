@@ -37,14 +37,7 @@ This repository features a variety of pattern examples, including but not limite
      * * 
      * 
      ```
-
-   - **Reverse Number Triangle**
-     ```
-     1
-     2 1
-     3 2 1 
-     ```
-
+     
    - **Number Reversed Triangle** 
      ```
      1
