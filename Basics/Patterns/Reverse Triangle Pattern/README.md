@@ -14,6 +14,7 @@ Below are examples of different types of reverse triangle patterns that can be p
        *
 ```
 This pattern can also be created using numbers or characters. Check reverse_solid_triangle1 and reverse_solid_triangle2.
+Another kind of same thing can be seen in reverse_solid_triangle3 and reverse_solid_triangle4.
 
 ### 2. **Reverse Number Reversed Triangle** : Let n = 3, n here is the Number of Rows
 ```
