@@ -42,6 +42,7 @@ This pattern can also be created using characters. Refer to number_reversed_tria
      4 5 6
      7 8 9 10
   ```
+This can also be done with characters. Refer to floyds_triangle1.cpp.
 
 ## Program Logic Explanation
 
