@@ -44,7 +44,14 @@ This repository features a variety of pattern examples, including but not limite
      2 1
      3 2 1
      ```
-     
+
+   - **Number Triangle** 
+     ```
+     1
+     1 2
+     1 2 3
+     ```
+         
 ---
 
 ### 3. **Reversed Triangle Patterns**
