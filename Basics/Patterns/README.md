@@ -30,12 +30,12 @@ This repository features a variety of pattern examples, including but not limite
 ---
 
 ### 2. **Triangle Patterns**
-   - **Solid Reverse Right-Angled Triangle**
+   - **Solid Right-Angled Triangle**
      ```
-     * * * *
+     *
+     * *
      * * *
-     * * 
-     * 
+     * * * *
      ```
      
    - **Number Reversed Triangle** 
@@ -48,19 +48,20 @@ This repository features a variety of pattern examples, including but not limite
 ---
 
 ### 3. **Reversed Triangle Patterns**
-   - **Solid Right-Angled Triangle**
+
+   - **Solid Reverse Right-Angled Triangle** 
      ```
-     *
-     * *
-     * * *
      * * * *
+     * * *
+     * *
+     *
      ```
 
-   - **Number Triangle**
+   - **Reverse Number Reversed Triangle** 
      ```
+     3 2 1
+     2 1
      1
-     1 2
-     1 2 3
      ```
      
 ---
