@@ -74,13 +74,6 @@ This repository features a variety of pattern examples, including but not limite
 ---
 
 ### 4. **Number Patterns**
-   - **Right-angled Triangle with Numbers**
-     ```
-     1
-     1 2
-     1 2 3
-     1 2 3 4
-     ```
 
    - **Floyd’s Triangle**
      ```
@@ -89,7 +82,7 @@ This repository features a variety of pattern examples, including but not limite
      4 5 6
      7 8 9 10
      ```
-
+     
 ---
 
 ### 5. **Alphabet Patterns**
