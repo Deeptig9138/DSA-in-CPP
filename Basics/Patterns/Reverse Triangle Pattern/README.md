@@ -21,7 +21,8 @@ This pattern can also be created using numbers or characters. Check reverse_soli
        2 1
        1
 ```
-This pattern can also be created using numbers or characters. Check reverse_number_reversed_triangle1 and reverse_number_reversed_triangle2.
+This pattern can also be created using characters. Check reverse_number_reversed_triangle3.
+There is another version of it. Check reverse_number_reversed_triangle1 and reverse_number_reversed_triangle2.
 
 ### 3. **Inverted Triangle** : Let n = 4, n here is the Number of Rows
 ```
@@ -30,7 +31,7 @@ This pattern can also be created using numbers or characters. Check reverse_numb
            3 3
              4
 ```
-This pattern can also be created using numbers or characters. Check inverted_triangle1 and inverted_triangle2.
+This pattern can also be created using characters. Check inverted_triangle1.
 
 ## Program Logic Explanation
 
