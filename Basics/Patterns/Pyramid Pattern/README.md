@@ -15,7 +15,7 @@ Below are examples of different types of pyramid patterns that can be printed:
 ```
 This can be done with numbers and characters. Check out simple_pyramid1 & simple_pyramid2
 
-### 1. **Increasing Number Pyramid** : Let n = 3, where n is the number of rows
+### 2. **Increasing Number Pyramid** : Let n = 3, where n is the number of rows
 ```
       1
    1  2  1
