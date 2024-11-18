@@ -107,26 +107,8 @@ This repository features a variety of pattern examples, including but not limite
      ```
      
 ---
-
-### 5. **Alphabet Patterns**
-   - **Increasing Alphabet Triangle**
-     ```
-     A
-     B B
-     C C C
-     D D D D
-     ```
-
----
      
-### 6. **Advanced Patterns**
-   - **Checkerboard**
-     ```
-     * * * * *
-      * * * * *
-     * * * * *
-      * * * * *
-     ```
+### 5. **Advanced Patterns**
 
    - **Hollow Square**
      ```
