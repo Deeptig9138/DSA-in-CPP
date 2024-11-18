@@ -24,6 +24,7 @@ This can be done with numbers and characters. Check out simple_pyramid1 & simple
 Same thing can be done with characters. Check out increasing_number_pyramid & increasing_number_pyramid1
 
 ## Program Logic Explanation
+*Note: This is a general program logic to build the pattern, it is not necessary that i may have applied the same method. These patterns can be achieved by various writing which comes under same logic. Understanding of logic is more important than the code.*
 
 ### 1. Simple Star Pyramid
 - We use **nested loops**: an outer loop to handle the number of rows and two inner loops to handle spaces and stars.
