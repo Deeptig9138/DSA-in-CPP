@@ -34,6 +34,7 @@ There is another version of it. Check reverse_number_reversed_triangle1 and reve
 This pattern can also be created using characters. Check inverted_triangle1.
 
 ## Program Logic Explanation
+*Note: This is a general program logic to build the pattern, it is not necessary that i may have applied the same method. These patterns can be achieved by various writing which comes under same logic. Understanding of logic is more important than the code.*
 
 ### 1. Solid Reverse Right-Angled Triangle
 - We use **nested loops**: an outer loop to control the number of rows and an inner loop to control the number of stars printed in each row.
