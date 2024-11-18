@@ -110,15 +110,24 @@ This repository features a variety of pattern examples, including but not limite
      
 ### 5. **Advanced Patterns**
 
-   - **Hollow Square**
+   - **Hollow Diamond**
      ```
-     * * * * *
-     *       *
-     *       *
-     *       *
-     * * * * *
+       *  
+      * * 
+     *   *
+      * * 
+       *  
      ```
 
+   - **Butterfly**
+     ```
+     *    *
+     **  **
+     ******
+     **  **
+     *    *
+     ```
+     
 ---
 
 ## Code Structure
