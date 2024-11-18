@@ -22,6 +22,7 @@ This can be done with numbers and characters. Check out simple_pyramid1 & simple
 1  2  3  2  1
 ```
 Same thing can be done with characters. Check out increasing_number_pyramid & increasing_number_pyramid1
+There is another variation of this which you can see at increasing_number_pyramid2
 
 ## Program Logic Explanation
 *Note: This is a general program logic to build the pattern, it is not necessary that i may have applied the same method. These patterns can be achieved by various writing which comes under same logic. Understanding of logic is more important than the code.*
