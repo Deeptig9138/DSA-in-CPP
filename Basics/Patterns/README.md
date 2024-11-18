@@ -78,6 +78,14 @@ This repository features a variety of pattern examples, including but not limite
      2 1
      1
      ```
+
+   - **Inverted Triangle** 
+     ```
+     1 1 1 1
+       2 2 2
+         3 3
+           4
+     ```
      
 ---
 
