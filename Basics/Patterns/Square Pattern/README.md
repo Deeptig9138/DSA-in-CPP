@@ -24,6 +24,7 @@ Same thing can be done with numbers and characters. solid_square1 & solid_square
 Same thing can be done with characters. number_square1
 
 ## Program Logic Explanation
+*Note: This is a general program logic to build the pattern, it is not necessary that i may have applied the same method. These patterns can be achieved by various writing which comes under same logic. Understanding of logic is more important than the code.*
 
 ### 1. Solid Square
 - We use two **nested loops**: an outer loop to handle the rows and an inner loop to handle the columns within each row.
