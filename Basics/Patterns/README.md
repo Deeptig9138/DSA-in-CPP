@@ -90,13 +90,22 @@ This repository features a variety of pattern examples, including but not limite
 ---
 
 ### 4. **Pyramid Patterns**
+
+   - **Simple Pyramid** 
+     ```
+         *
+        * *
+       * * *
+      * * * *
+     ```
+
    - **Increasing Number Triangle**
      ```
            1
         1  2  1
      1  2  3  2  1
      ```
-
+     
 ---
 
 ### 5. **Alphabet Patterns**
