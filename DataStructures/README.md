@@ -7,6 +7,7 @@ This folder covers essential data structures used in computer science and compet
 - Stacks and Queues
 - Trees and Graphs
 - Hash Maps and Sets
+- and more
 
 Each data structure includes a description, code implementation, and basic operations to help understand its use cases and complexities.
 
