@@ -45,6 +45,7 @@ This pattern can also be created using characters. Refer to number_reversed_tria
 This can also be done with characters. Refer to floyds_triangle1.cpp.
 
 ## Program Logic Explanation
+*Note: This is a general program logic to build the pattern, it is not necessary that i may have applied the same method. These patterns can be achieved by various writing which comes under same logic. Understanding of logic is more important than the code.*
 
 ### 1. Solid Right-Angled Triangle
 - We use **nested loops**: an outer loop to control the number of rows and an inner loop to control the number of stars printed in each row.
