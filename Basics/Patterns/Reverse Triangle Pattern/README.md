@@ -48,3 +48,12 @@ This pattern can also be created using characters. Check inverted_triangle1.
     - Row 2: starts from `n-1` and prints numbers from `n-1` down to `1`.
     - Row 3: starts from `n-2` and prints numbers from `n-2` down to `1`.
 - This creates a pattern where the numbers in each row decrease in both the number of elements and their values.
+
+### 3. Inverted Triangle
+- We use **nested loops**: an outer loop to control the number of rows and inner loops to manage spaces and numbers printed in each row.
+- The **outer loop** runs from `1` to `n`, where `n` is the total number of rows in the triangle.
+- The first **inner loop** prints spaces at the beginning of each row:
+  - The number of spaces for row `i` is `(i - 1)`. This creates the indentation required for the inverted shape.
+- The second **inner loop** prints the number `i` in each row:
+  - The number of times the number `i` is printed in row `i` is `(n - i + 1)`, ensuring that the count of printed numbers decreases with each row.
+- This results in a pattern where each row is indented further to the right and has fewer repetitions of the number, giving it the shape of an inverted triangle.
