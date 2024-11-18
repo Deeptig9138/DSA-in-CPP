@@ -57,7 +57,7 @@ This can also be done with characters. Refer to floyds_triangle1.cpp.
 - The **inner loop** runs from 1 to the current row number (i), printing sequential numbers starting from 1 for each column.
 - This results in a triangle where each row prints numbers starting from 1 up to the current row number.
 
-### 2. Reverse Number Triangle
+### 3. Reverse Number Triangle
 - The **outer loop** runs from `1` to `n`, representing each row.
 - The **inner loop** runs from the current row number `i` down to `1`, printing numbers in descending order for each column.
 - This results in a reverse triangle where each row starts from the row number and counts down to `1`.
@@ -65,6 +65,13 @@ This can also be done with characters. Refer to floyds_triangle1.cpp.
   - In Row 1, it prints `1`.
   - In Row 2, it prints `2 1`.
   - In Row 3, it prints `3 2 1`.
+ 
+### 4. Floyd's Triangle**
+- The **outer loop** controls the number of rows, running from `1` to `n` (the total number of rows).
+   - The loop variable `i` keeps track of the current row number, where the number of elements in each row increases with each iteration.
+- For each row `i`, the **inner loop** prints exactly `i` numbers.
+   - The numbers are consecutive and start from `1`. A variable `num` is used to track the current number to be printed, and it is incremented after every print.
+- The pattern starts with `1` in the first row, and the numbers increase consecutively as you move down the rows.
 
 ---
 ## solid_triangle2:
