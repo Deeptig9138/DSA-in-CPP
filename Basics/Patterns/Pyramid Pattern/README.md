@@ -13,7 +13,7 @@ Below are examples of different types of pyramid patterns that can be printed:
   * * *
  * * * *
 ```
-This can be done with numbers and characters. Check out simple_pyramid1 & simple_pyramid1
+This can be done with numbers and characters. Check out simple_pyramid1 & simple_pyramid2
 
 ### 1. **Increasing Number Pyramid** : Let n = 3, where n is the number of rows
 ```
@@ -21,7 +21,7 @@ This can be done with numbers and characters. Check out simple_pyramid1 & simple
    1  2  1
 1  2  3  2  1
 ```
-Same thing can be done with characters. Check out increasing_number_pyramid1 & increasing_number_pyramid1
+Same thing can be done with characters. Check out increasing_number_pyramid & increasing_number_pyramid1
 
 ## Program Logic Explanation
 
