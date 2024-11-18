@@ -23,6 +23,15 @@ This pattern can also be created using numbers or characters. Check reverse_soli
 ```
 This pattern can also be created using numbers or characters. Check reverse_number_reversed_triangle1 and reverse_number_reversed_triangle2.
 
+### 3. **Inverted Triangle** : Let n = 4, n here is the Number of Rows
+```
+       1 1 1 1
+         2 2 2
+           3 3
+             4
+```
+This pattern can also be created using numbers or characters. Check inverted_triangle1 and inverted_triangle2.
+
 ## Program Logic Explanation
 
 ### 1. Solid Reverse Right-Angled Triangle
