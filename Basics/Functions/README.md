@@ -5,9 +5,16 @@ A function is a block of code designed to perform a specific task. It can be cal
 
 **Syntax:**
 ```cpp
-return_type function_name(parameters) {
+return_type function_name(parameters) { 
     // body of the function
     return value; // if required
+}
+```
+
+If void is used as return_type then that function has no written value.
+```cpp
+void printHello(){
+    cout<<"Hello World!";
 }
 ```
 
@@ -112,13 +119,14 @@ int factorial(int n) {
 ### Example 1: Simple Function
 ```cpp
 #include <iostream>
+using namespace std;
 
-int add(int a, int b) {
+int add(int a, int b) { // here int a, int b are parameters
     return a + b;
 }
 
 int main() {
-    std::cout << "Sum: " << add(3, 4) << std::endl;
+    cout << "Sum: " << add(3, 4) << std::endl; // here 3, 4 are arguments
     return 0;
 }
 ```
@@ -126,6 +134,7 @@ int main() {
 ### Example 2: Pass by Reference
 ```cpp
 #include <iostream>
+using namespace std;
 
 void increment(int &value) {
     value++;
@@ -134,7 +143,7 @@ void increment(int &value) {
 int main() {
     int x = 10;
     increment(x);
-    std::cout << "Incremented Value: " << x << std::endl;
+    cout << "Incremented Value: " << x << std::endl;
     return 0;
 }
 ```
