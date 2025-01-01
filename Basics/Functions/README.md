@@ -115,6 +115,34 @@ int factorial(int n) {
 
 ---
 
+## Function and Memory 🧠
+Functions play a crucial role in memory management in C++:
+
+1. **Stack Allocation**:
+   When a function is called, a new stack frame is created on the stack. This frame contains:
+   - Function parameters
+   - Local variables
+   - Return address
+   
+   The frame is destroyed when the function exits, freeing up memory.
+
+3. **Heap Allocation**:
+   Dynamic memory can be allocated inside a function using `new` or other memory management techniques. Memory allocated on the heap persists beyond the function’s execution until explicitly freed using `delete`.
+
+4. **Recursion and Memory**:
+   Recursive functions use the stack for each call. Excessive recursion can lead to stack overflow due to limited stack size.
+
+5. **Static Variables**:
+   Static variables within a function retain their value across function calls and are stored in a fixed memory location rather than the stack.
+   ```cpp
+   void counter() {
+       static int count = 0; // Retains value across calls
+       count++;
+       std::cout << "Count: " << count << std::endl;
+   }
+   ```
+
+---
 ## Examples 💡
 ### Example 1: Simple Function
 ```cpp
