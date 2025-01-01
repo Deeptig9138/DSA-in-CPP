@@ -8,6 +8,11 @@ Pattern programs are a popular way to practice programming logic and understand 
 
 ---
 
+## Code Structure
+Each pattern program is included in a separate C++ file with descriptive comments explaining the logic used. 
+
+---
+
 ## Patterns Included
 This repository features a variety of pattern examples, including but not limited to:
 
@@ -128,9 +133,4 @@ This repository features a variety of pattern examples, including but not limite
      *    *
      ```
      
----
-
-## Code Structure
-Each pattern program is included in a separate C++ file with descriptive comments explaining the logic used. 
-
 ---
