@@ -11,9 +11,9 @@ int sum(int a, int b){
 int main() {
     int a = 5;
     int b = 4;
-    cout << sum(a, b) <<endl;
+    cout << sum(a, b) <<endl; // 29
     
-    cout << a <<endl;
-    cout << b <<endl;
+    cout << a <<endl; // 5
+    cout << b <<endl; // 4
     return 0;
 }
