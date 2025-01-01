@@ -148,5 +148,3 @@ int main() {
 4. Avoid excessive use of global variables; prefer passing arguments. 🚫🌍
 5. Handle edge cases and provide default parameter values if needed. 🛡️
 6. Use `const` keyword where applicable to prevent unintended modifications. 🔒
-
----
