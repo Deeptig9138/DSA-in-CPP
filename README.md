@@ -8,10 +8,10 @@ Welcome to my **Data Structures and Algorithms** repository, where I tackle esse
 - **Optimized Code**: Focused on clean, efficient C++ solutions with optimal time and space complexity.
 
 ## 📂 Folder Structure
-- **/Basics**: Core C++ syntax, STL, and fundamental concepts.
-- **/DataStructures**: Implementation of essential data structures.
-- **/Algorithms**: Key algorithms with detailed explanations.
-- **/Problem-Solutions**: Solutions to popular DSA problems.
+- [**/Basics**](https://github.com/Deeptig9138/DSA-in-CPP/tree/main/Basics): Core C++ syntax, STL, and fundamental concepts.
+- [**/DataStructures**](https://github.com/Deeptig9138/DSA-in-CPP/tree/main/Data%20Structures): Implementation of essential data structures.
+- [**/Algorithms**](https://github.com/Deeptig9138/DSA-in-CPP/tree/main/Algorithms): Key algorithms with detailed explanations.
+- [**/Problem-Solutions**](https://github.com/Deeptig9138/DSA-in-CPP/tree/main/Problems%20%26%20Solutions): Solutions to popular DSA problems.
 
 ## 📈 Goals
 1. Develop a deep understanding of DSA concepts.
