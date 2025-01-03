@@ -86,7 +86,9 @@ int main() {
 ## Common Binary Numbers and Short Tricks
 
 ### Common Binary Numbers:
+
 | **Decimal**	| **Binary** |
+|-------------|------------|
 | 0	          | 0          |
 | 1	          | 1          |
 | 2	          | 10         |
