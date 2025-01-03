@@ -55,7 +55,9 @@ To convert binary to decimal, multiply each binary digit by 2^position, where th
    
 ### Example:
 Convert 1101 to decimal:
+```
 1 × 2³ + 1 × 2² + 0 × 2¹ + 1 × 2⁰ = 8 + 4 + 0 + 1 = 13
+```
 
 Decimal: 13
 
