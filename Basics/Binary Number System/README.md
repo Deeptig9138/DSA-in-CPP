@@ -25,9 +25,13 @@ Convert `13` to binary:
 Binary: 1101
 
 ### Code Example:
-```cpp
+```cpp 
 #include <iostream>
 using namespace std;
+
+// This code use a data structure called stack to store the value and print it. It uses first in last out method.
+// You can study this in data structure repository.
+// Other version without a data structure is given here in Decimal to Binary.cpp
 
 void decimalToBinary(int n) {
     if (n == 0) return;
