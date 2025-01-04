@@ -124,7 +124,14 @@ int main() {
 ---
 
 ## Two's Complement
-Two's complement is a method for representing negative binary numbers.
+Two's complement is a method for representing negative binary numbers, allowing for seamless arithmetic operations in binary.
+
+### Positive Numbers
+For positive integers, the binary representation remains as-is with the Most Significant Bit (MSB) as 0.
+Example: 5 in 8-bit binary is 00000101.
+
+### Negative Numbers
+For negative numbers, two's complement representation is used. The MSB is 1, indicating negativity.
 
 ### Steps to Find Two's Complement:
 1. Write the binary representation of the positive number.
@@ -137,7 +144,7 @@ Find the two's complement of 5 (binary: 0101):
 1. Invert the bits: 1010.
 2. Add 1: 1010 + 1 = 1011.
 
-Two's complement of 5 is 1011.
+Two's complement of 5 is 1011, representing -5 in binary.
 
 ### Code Example:
 ```
