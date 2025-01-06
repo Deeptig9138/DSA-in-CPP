@@ -10,14 +10,14 @@ Bitwise operators perform operations directly on the binary representations of i
 
 ### Common Bitwise Operators:
 
-| Operator | Description               | Example (in binary)|
-|----------|---------------------------|--------------------|
-| *&*      | AND                       | 1010 & 1100 = 1000 |
-| * *      | OR                        | 1010 | 1100 = 1110 |
-| *^*      | XOR (Exclusive OR)        | 1010 ^ 1100 = 0110 |
-| *~*      | NOT (One's Complement)    | ~1010 = 0101       |
-| *<<*     | Left Shift                | 1010 << 1 = 10100  |
-| *>>*     | Right Shift               | 1010 >> 1 = 0101   |
+| Operator         | Description               | Example (in binary)            |
+|------------------|---------------------------|--------------------------------|
+| *&*              | AND                       | 1010 & 1100 = 1000             |
+| *straight line*  | OR                        | 1010 straight line 1100 = 1110 |
+| *^*              | XOR (Exclusive OR)        | 1010 ^ 1100 = 0110             |
+| *~*              | NOT (One's Complement)    | ~1010 = 0101                   |
+| *<<*             | Left Shift                | 1010 << 1 = 10100              |
+| *>>*             | Right Shift               | 1010 >> 1 = 0101               |
 
 ---
 
