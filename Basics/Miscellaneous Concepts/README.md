@@ -32,7 +32,7 @@ int result = 3 + 4 * 2; // result = 11, because '*' has higher precedence than '
 
 ### General Precedence Order (Highest to Lowest):
 1. Parentheses: `()`
-2. Unary Operators: `+`, `-`, `!`, `~`
+2. Unary Operators: `+`, `-`, `!`, `~` R to L
 3. Multiplicative: `*`, `/`, `%`
 4. Additive: `+`, `-`
 5. Shift: `<<`, `>>`
@@ -43,7 +43,7 @@ int result = 3 + 4 * 2; // result = 11, because '*' has higher precedence than '
 10. Bitwise OR: `|`
 11. Logical AND: `&&`
 12. Logical OR: `||`
-13. Assignment: `=`, `+=`, `-=`, etc.
+13. Assignment: `=`, `+=`, `-=`, etc. R to L
 
 ---
 
