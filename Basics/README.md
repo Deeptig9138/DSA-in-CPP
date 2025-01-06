@@ -19,14 +19,11 @@ Welcome to the **Basics** folder! This section covers foundational C++ programmi
 - **Functions**  
   Dive into defining and using functions to create reusable code, structure your program, and enhance readability.
 
-- **Binary Number System**  
-  Explore the binary representation of numbers, crucial for understanding bit-level operations and algorithm optimizations.
+- **Miscellaneous Concepts**  
+  Explore the binary representation of numbers, crucial for understanding bit-level operations and algorithm optimizations. Understand fundamental data types and how modifiers like `signed`, `unsigned`, `long`, and `short` alter their properties.
 
 - **Bitwise Operators**  
   Learn operators like AND (`&`), OR (`|`), XOR (`^`), and shifts (`<<`, `>>`) to perform low-level operations efficiently.
-
-- **Data Types & Modifiers**  
-  Understand fundamental data types and how modifiers like `signed`, `unsigned`, `long`, and `short` alter their properties.
 
 ---
 
