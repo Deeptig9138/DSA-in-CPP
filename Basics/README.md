@@ -17,6 +17,7 @@ Welcome to the **Basics** folder! This section covers foundational C++ programmi
   Master loops and fundamental programming by designing patterns.
 
 - [**Functions**](https://github.com/Deeptig9138/DSA-in-CPP/tree/main/Basics/Functions)
+
   Dive into defining and using functions to create reusable code, structure your program, and enhance readability.
 
 - [**Binary Number System**](https://github.com/Deeptig9138/DSA-in-CPP/tree/main/Basics/Binary%20Number%20System)  
