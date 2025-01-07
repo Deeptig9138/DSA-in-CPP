@@ -19,16 +19,27 @@ Bitwise operators perform operations directly on the binary representations of i
 | *<<*             | Left Shift                | 1010 << 1 = 10100              |
 | *>>*             | Right Shift               | 1010 >> 1 = 0101               |
 
+### Bitwise Operations Example:
+```c
+#include <stdio.h>
+
+int main() {
+    int a = 5; // Binary: 0101
+    int b = 3; // Binary: 0011
+
+    printf("a & b = %d\n", a & b); // Output: 1 (0001)
+    printf("a | b = %d\n", a | b); // Output: 7 (0111)
+    printf("a ^ b = %d\n", a ^ b); // Output: 6 (0110)
+
+    return 0;
+}
+```
+
 ---
 
 ## Operator Precedence
 
 Operator precedence determines the order in which operations are evaluated in an expression. Operators with higher precedence are evaluated before those with lower precedence.
-
-### Example of Precedence:
-```c
-int result = 3 + 4 * 2; // result = 11, because '*' has higher precedence than '+'
-```
 
 ### General Precedence Order (Highest to Lowest):
 1. Parentheses: `()`
@@ -44,6 +55,18 @@ int result = 3 + 4 * 2; // result = 11, because '*' has higher precedence than '
 11. Logical AND: `&&`
 12. Logical OR: `||`
 13. Assignment: `=`, `+=`, `-=`, etc. R to L
+
+### Operator Precedence Example:
+```c
+#include <stdio.h>
+
+int main() {
+    int result = 3 + 4 * 2; // Multiplication evaluated first
+    printf("Result = %d\n", result); // Output: 11
+
+    return 0;
+}
+```
 
 ---
 
@@ -74,55 +97,6 @@ void example() {
 - Use local variables to reduce side effects.
 - Avoid excessive use of global variables to maintain modularity.
 
----
-
-## Data Type Modifiers
-
-Data type modifiers are used to alter the properties of standard data types, such as their size or range.
-
-### Common Modifiers:
-
-| Modifier   | Effect                               | Example            |
-|------------|--------------------------------------|--------------------|
-| `signed`   | Default, allows positive & negative  | `signed int a;`    |
-| `unsigned` | Allows only non-negative values      | `unsigned int b;`  |
-| `short`    | Reduces size of the data type        | `short int c;`     |
-| `long`     | Increases size of the data type      | `long int d;`      |
-
----
-
-## Examples
-
-This section contains practical examples demonstrating the concepts.
-
-### Bitwise Operations Example:
-```c
-#include <stdio.h>
-
-int main() {
-    int a = 5; // Binary: 0101
-    int b = 3; // Binary: 0011
-
-    printf("a & b = %d\n", a & b); // Output: 1 (0001)
-    printf("a | b = %d\n", a | b); // Output: 7 (0111)
-    printf("a ^ b = %d\n", a ^ b); // Output: 6 (0110)
-
-    return 0;
-}
-```
-
-### Operator Precedence Example:
-```c
-#include <stdio.h>
-
-int main() {
-    int result = 3 + 4 * 2; // Multiplication evaluated first
-    printf("Result = %d\n", result); // Output: 11
-
-    return 0;
-}
-```
-
 ### Scope Example:
 ```c
 #include <stdio.h>
@@ -139,3 +113,18 @@ int main() {
     return 0;
 }
 ```
+
+---
+
+## Data Type Modifiers
+
+Data type modifiers are used to alter the properties of standard data types, such as their size or range.
+
+### Common Modifiers:
+
+| Modifier   | Effect                               | Example            |
+|------------|--------------------------------------|--------------------|
+| `signed`   | Default, allows positive & negative  | `signed int a;`    |
+| `unsigned` | Allows only non-negative values      | `unsigned int b;`  |
+| `short`    | Reduces size of the data type        | `short int c;`     |
+| `long`     | Increases size of the data type      | `long int d;`      |
