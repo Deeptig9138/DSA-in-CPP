@@ -2,6 +2,8 @@
 
 Welcome to the **Basics** folder! This section covers foundational C++ programming concepts crucial for a solid understanding of Data Structures and Algorithms (DSA). Each topic below contains explanations and code examples to strengthen your grasp of core C++ principles.
 
+---
+
 ## 📂 Contents
 
 - [**Flowchart & Pseudocode:**](https://github.com/Deeptig9138/DSA-in-CPP/tree/main/Basics/Flowchart%20%26%20Psudeocode) Learn how to visualize logic using flowcharts and structure your ideas with pseudocode before coding.
