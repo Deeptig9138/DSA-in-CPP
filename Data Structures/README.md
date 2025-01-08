@@ -1,6 +1,14 @@
 # 📘 Data Structures
 
-Welcome to the **Data Structures** folder! This section covers essential data structures that form the backbone of computer science. Each topic includes detailed explanations and code examples, allowing you to deepen your understanding of these fundamental structures.
+Welcome to the **Data Structures** folder! This section covers essential data structures that form the backbone of computer science. Each topic includes detailed explanations and code examples, allowing you to deepen your understanding of these fundamental structures. In this document, we will explore data structures, starting from basic classifications and progressing to more advanced structures.
+
+Data structures are fundamental concepts in computer science, providing a way to organize and store data efficiently. The choice of data structure plays a crucial role in algorithm performance, determining how data is accessed, modified, and manipulated. A well-chosen data structure can optimize memory usage and processing speed.
+
+---
+
+## 📊 Classification of Data Structures
+
+![Classification of Data Structures](https://storage.googleapis.com/download/storage/v1/b/designgurus-prod.appspot.com/o/e1aca977880d4dce83f295c00?generation=1697606174169801&alt=media)
 
 ---
 
@@ -19,12 +27,6 @@ Welcome to the **Data Structures** folder! This section covers essential data st
 - [**Graphs:**]() Explore graphs, a versatile structure used to represent networks and relationships between objects, and learn about algorithms like BFS and DFS.
 
 - [**Hash Tables:**]() Learn about hash tables, which allow for fast data retrieval using key-value pairs, and understand concepts like hashing and collision resolution.
-
----
-
-## 📊 Classification of Data Structures
-
-![Classification of Data Structures](https://storage.googleapis.com/download/storage/v1/b/designgurus-prod.appspot.com/o/e1aca977880d4dce83f295c00?generation=1697606174169801&alt=media)
 
 ---
 
