@@ -24,7 +24,7 @@ Welcome to the **Data Structures** folder! This section covers essential data st
 
 ## 📊 Classification of Data Structures
 
-![Classification of Data Structures]()
+![Classification of Data Structures](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffindtodaysnotes.wordpress.com%2Fclassification-of-data-structures%2F&psig=AOvVaw2VJxkTp_Eeqp9SeewCg4t0&ust=1736428550801000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjPg8qa5ooDFQAAAAAdAAAAABAu)
 
 ---
 
