@@ -14,7 +14,7 @@ Data structures are fundamental concepts in computer science, providing a way to
 
 ## 📂 Contents
 
-1. **Primitive Data Structures**
+A. **Primitive Data Structures**
 Primitive data structures are the most basic types of data structures that represent a single value. These are typically built into programming languages and serve as the foundation for more complex data structures.
 
 - **Integer:** A whole number.
@@ -23,10 +23,10 @@ Primitive data structures are the most basic types of data structures that repre
 - **Boolean:** Represents either true or false.
 - **String:** A sequence of characters (in some languages, treated as an array of characters).
 
-2. **Non-Primitive Data Structures**
+B. **Non-Primitive Data Structures**
 Non-primitive data structures are more complex structures that are derived from primitive data types. These structures can store multiple values or organize data in more advanced ways.
 
-A. **Linear Data Structures**
+1. **Linear Data Structures**
 Linear data structures store data elements in a sequential manner. Each element in a linear data structure has a unique predecessor and successor (except for the first and last elements).
 
 - [**Arrays:**]() A collection of elements that can be accessed by their index, typically in contiguous memory.
@@ -34,7 +34,7 @@ Linear data structures store data elements in a sequential manner. Each element 
 - [**Stacks:**]() Data structure where elements are added and removed in a Last-In-First-Out (LIFO) order.
 - [**Queues:**]() Data structure where elements are added at the rear and removed from the front in a First-In-First-Out (FIFO) order.
 
-B. Non-Linear Data Structures
+2. Non-Linear Data Structures
 Non-linear data structures organize data in a hierarchical or graph-like structure where each element may have multiple relationships with other elements.
 
 - [**Trees:**]() A hierarchical structure with nodes representing data and edges connecting the nodes. Examples include binary trees, binary search trees, and AVL trees.
@@ -43,7 +43,7 @@ Non-linear data structures organize data in a hierarchical or graph-like structu
 ---
 
 ## Why Are Data Structures Important?
--
+
 - **Efficiency:** The right data structure can make algorithms faster and reduce memory usage.
 - **Optimization:** Selecting the appropriate data structure can optimize code, especially for large datasets.
 - **Problem Solving:** Complex problems like searching, sorting, pathfinding, and database management heavily rely on data structures to provide efficient solutions.
