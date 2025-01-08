@@ -14,19 +14,39 @@ Data structures are fundamental concepts in computer science, providing a way to
 
 ## 📂 Contents
 
-- [**Arrays:**]() Learn about arrays, the simplest and most widely used data structure for storing elements in a contiguous block of memory. 
+1. **Primitive Data Structures**
+Primitive data structures are the most basic types of data structures that represent a single value. These are typically built into programming languages and serve as the foundation for more complex data structures.
 
-- [**Linked Lists:**]() Understand linked lists, where elements (nodes) are connected by pointers, enabling efficient insertion and deletion operations.
+- **Integer:** A whole number.
+- **Float:** A number with a decimal point.
+- **Character:** A single letter or symbol.
+- **Boolean:** Represents either true or false.
+- **String:** A sequence of characters (in some languages, treated as an array of characters).
 
-- [**Stacks:**]() Master the stack data structure, which follows the Last In First Out (LIFO) principle, and explore its applications in algorithms like DFS.
+2. **Non-Primitive Data Structures**
+Non-primitive data structures are more complex structures that are derived from primitive data types. These structures can store multiple values or organize data in more advanced ways.
 
-- [**Queues:**]() Dive into queues, which follow the First In First Out (FIFO) principle, and learn how they are used in scheduling and buffering data.
+A. **Linear Data Structures**
+Linear data structures store data elements in a sequential manner. Each element in a linear data structure has a unique predecessor and successor (except for the first and last elements).
 
-- [**Trees:**]() Study trees, especially binary trees, and understand their use in hierarchical data representation and various search and traversal algorithms.
+- [**Arrays:**]() A collection of elements that can be accessed by their index, typically in contiguous memory.
+- [**Linked Lists:**]() A series of nodes where each node points to the next, allowing dynamic memory allocation.
+- [**Stacks:**]() Data structure where elements are added and removed in a Last-In-First-Out (LIFO) order.
+- [**Queues:**]() Data structure where elements are added at the rear and removed from the front in a First-In-First-Out (FIFO) order.
 
-- [**Graphs:**]() Explore graphs, a versatile structure used to represent networks and relationships between objects, and learn about algorithms like BFS and DFS.
+B. Non-Linear Data Structures
+Non-linear data structures organize data in a hierarchical or graph-like structure where each element may have multiple relationships with other elements.
 
-- [**Hash Tables:**]() Learn about hash tables, which allow for fast data retrieval using key-value pairs, and understand concepts like hashing and collision resolution.
+- [**Trees:**]() A hierarchical structure with nodes representing data and edges connecting the nodes. Examples include binary trees, binary search trees, and AVL trees.
+- [**Graphs:**]() A collection of nodes (vertices) and edges connecting them. Graphs can be directed or undirected, and they may contain cycles.
+
+---
+
+## Why Are Data Structures Important?
+-
+- **Efficiency:** The right data structure can make algorithms faster and reduce memory usage.
+- **Optimization:** Selecting the appropriate data structure can optimize code, especially for large datasets.
+- **Problem Solving:** Complex problems like searching, sorting, pathfinding, and database management heavily rely on data structures to provide efficient solutions.
 
 ---
 
